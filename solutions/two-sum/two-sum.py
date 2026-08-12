@@ -1,1 +1,2 @@
-print('CodeSync database test')
+class Solution:
+    pass
