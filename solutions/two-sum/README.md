@@ -1,7 +1,7 @@
 # Two Sum
 
 - **Problem:** Two Sum
-- **Language:** python3
+- **Language:** Python3
 - **Status:** Accepted
 - **Problem Slug:** two-sum
 
