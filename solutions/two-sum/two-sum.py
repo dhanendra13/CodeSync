@@ -1,2 +1,1 @@
-class Solution:
-    pass
+print('CodeSync database test')
